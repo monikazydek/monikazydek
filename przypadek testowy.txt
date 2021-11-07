@@ -1,0 +1,11 @@
+
+Id. Tc.1
+
+Nazwa: Dodanie komentarza pod artykułem na stronie pudelek.pl
+
+Warunki wstepne: Uztykownik niezalogowany
+
+Kroki reprodukcji:
+	1. wejdz na strone pudelek.pl
+	2. kliknij pierwsszy artykuł z listy
+	3. zjedz na dół strony i w pole "skomentuj" wpisz komentarz i kliknij przycisk "wyślij"
